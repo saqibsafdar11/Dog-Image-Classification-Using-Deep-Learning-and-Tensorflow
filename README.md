@@ -1,5 +1,7 @@
 # Dog Image Classification Using Deep Learning and Tensorflow
 
+![Dog Image](dog_images\images\beagle\n02088364_5147.jpg)
+
  In this project, I imported a dataset of dog images, train a convolutional neural network to classify those images, and improve the model performance. The original data is from Stanford, and it contains images of many dog breeds. In this project, however, I use a reduced dataset containing only five breeds.
 
 http://vision.stanford.edu/aditya86/ImageNetDogs/
@@ -20,6 +22,8 @@ Conclusion: I have provided a summary of the model's performance and insights ga
 - Siberian Huskies: The model also has good accuracy with Siberian Huskies.
 - Labrador Retrievers: The model appears to have some difficulty differentiating between Labrador Retrievers and other breeds, as there are several misclassifications.
 - Bernese Mountain Dogs and Doberman Pinschers: The model struggles with these breeds, often misclassifying them as other breeds.
+
+![Output Image](output.png)
 
 - Overall: The confusion matrix suggests that the model has reasonable accuracy for some breeds but could be improved for others, especially Labrador Retrievers, Bernese Mountain Dogs, and Doberman Pinschers. Further analysis and potentially more training data might be needed to address these issues
 
