@@ -1,6 +1,6 @@
 # Dog Image Classification Using Deep Learning and Tensorflow
 
-![Dog Image](dog_images\images\beagle\n02088364_5147.jpg)
+![Dog Image](n02088364_2019.jpg)
 
  In this project, I imported a dataset of dog images, train a convolutional neural network to classify those images, and improve the model performance. The original data is from Stanford, and it contains images of many dog breeds. In this project, however, I use a reduced dataset containing only five breeds.
 
